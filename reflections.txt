@@ -7,3 +7,12 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+The new skills that I have attained after the course is the syntax of HTML tags in general. It was quite difficult in
+the beginning to gulp down the concepts and to understand why the tags behave the way they do. But with my perseverance
+and excellent excellent coaching from Udacity, I was able to understand the exact semantics of the web.
+
+The tree structure of the HTML elements in the browser is particularly intriguing. Initially, it didn't make sense to me as
+to why the DOM elements would be laid out in a tree structure. But the more times I went through the course, the easier it
+was to understand the complex and yet ultra-efficient tree rendering by the browsers.
+
